@@ -1,0 +1,17 @@
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ApplicationService.E-CommerceProject.deps.json
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ApplicationService.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ApplicationService.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\refint\ApplicationService.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ref\ApplicationService.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ApplicationService.E-CommerceProject.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\Applicat.E53BA9EC.Up2Date

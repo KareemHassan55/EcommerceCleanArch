@@ -1,0 +1,15 @@
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Infrastructure.deps.json
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Infrastructure.dll
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Infrastructure.pdb
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Data.dll
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Data.pdb
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerc.48E097E3.Up2Date
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.dll
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\refint\ECommerceProject.Infrastructure.dll
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Infrastructure.pdb
+D:\E-Commerce\E-CommerceProject\EntityFrameWork.E-CommerceProject\obj\Debug\net8.0\ref\ECommerceProject.Infrastructure.dll

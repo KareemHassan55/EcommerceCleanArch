@@ -1,0 +1,17 @@
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Service.deps.json
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Service.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Service.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Data.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Infrastructure.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Data.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\bin\Debug\net8.0\ECommerceProject.Infrastructure.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerc.006C13A5.Up2Date
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\refint\ECommerceProject.Service.dll
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ECommerceProject.Service.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationService.E-CommerceProject\obj\Debug\net8.0\ref\ECommerceProject.Service.dll

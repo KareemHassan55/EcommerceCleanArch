@@ -1,0 +1,15 @@
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.deps.json
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\refint\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ref\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.dll
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\ApplicationContract.E-CommerceProject.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\ApplicationContract.E-CommerceProject\obj\Debug\net8.0\Applicat.2CFD7036.Up2Date

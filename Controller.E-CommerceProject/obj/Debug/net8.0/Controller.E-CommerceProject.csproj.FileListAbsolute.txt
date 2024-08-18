@@ -1,0 +1,17 @@
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\Controller.E-CommerceProject.deps.json
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\Controller.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\Controller.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\refint\Controller.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\ref\Controller.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.dll
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\ApplicationContract.E-CommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\bin\Debug\net8.0\Domain.ECommerceProject.pdb
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controller.E-CommerceProject.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\Controller.E-CommerceProject\obj\Debug\net8.0\Controll.15AFB8D9.Up2Date

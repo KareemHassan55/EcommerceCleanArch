@@ -1,0 +1,520 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\E-Commerce\\E-CommerceProject\\E-Commerce\\E-Commerce.csproj": {}
+  },
+  "projects": {
+    "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj",
+        "projectName": "ApplicationContract.E-CommerceProject",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj",
+        "projectName": "ApplicationService.E-CommerceProject",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj",
+        "projectName": "ECommerceProject.Data",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Rest.ClientRuntime.Azure.Authentication": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Commerce\\E-CommerceProject\\E-Commerce\\E-Commerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\E-Commerce\\E-Commerce.csproj",
+        "projectName": "E-Commerce",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\E-Commerce\\E-Commerce.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\E-Commerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\EcommerceProject.Core.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\EcommerceProject.Core.csproj"
+              },
+              "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\EcommerceProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\EcommerceProject.Core.csproj",
+        "projectName": "EcommerceProject.Core",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\EcommerceProject.Core.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\EcommerceProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationContract.E-CommerceProject\\ApplicationContract.E-CommerceProject.csproj"
+              },
+              "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj"
+              },
+              "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj"
+              },
+              "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.Extensions.Localization": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj",
+        "projectName": "ECommerceProject.Infrastructure",
+        "projectPath": "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\ECommerceProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\karee\\.nuget\\packages\\",
+        "outputPath": "D:\\E-Commerce\\E-CommerceProject\\EntityFrameWork.E-CommerceProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\karee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wXhbUhe6wUOCcgabipfCWtwru1tv1UQJKFVHU2vUKWVdhXitCh/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\ApplicationService.E-CommerceProject\\ApplicationService.E-CommerceProject.csproj"
+              },
+              "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj": {
+                "projectPath": "D:\\E-Commerce\\E-CommerceProject\\Domain.ECommerceProject\\ECommerceProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

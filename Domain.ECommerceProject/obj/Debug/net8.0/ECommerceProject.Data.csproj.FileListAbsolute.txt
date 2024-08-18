@@ -1,0 +1,12 @@
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\bin\Debug\net8.0\ECommerceProject.Data.deps.json
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\bin\Debug\net8.0\ECommerceProject.Data.dll
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\bin\Debug\net8.0\ECommerceProject.Data.pdb
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.csproj.AssemblyReference.cache
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.AssemblyInfoInputs.cache
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.AssemblyInfo.cs
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.csproj.CoreCompileInputs.cache
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.dll
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\refint\ECommerceProject.Data.dll
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ECommerceProject.Data.pdb
+D:\E-Commerce\E-CommerceProject\Domain.ECommerceProject\obj\Debug\net8.0\ref\ECommerceProject.Data.dll
